@@ -2,3 +2,19 @@
 	path = meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded
 	branch = krogoth
+[submodule "meta-intel"]
+	path = meta-intel
+	url = git://git.yoctoproject.org/meta-intel.git
+	branch = krogoth
+[submodule "meta-up-board"]
+	path = meta-up-board
+	url = https://github.com/emutex/meta-up-board
+	branch = krogoth
+[submodule "meta-java"]
+	path = meta-java
+	url = git://git.yoctoproject.org/meta-java.git
+	branch = krogoth
+[submodule "meta-virtualization"]
+	path = meta-virtualization
+	url = git://git.yoctoproject.org/meta-virtualization.git
+	branch = krogoth
