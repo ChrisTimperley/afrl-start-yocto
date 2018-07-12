@@ -18,3 +18,6 @@
 	path = meta-virtualization
 	url = git://git.yoctoproject.org/meta-virtualization.git
 	branch = krogoth
+[submodule "meta-start-rover"]
+	path = meta-start-rover
+	url = git@gitlab.eecs.umich.edu:wrg-code/meta-start-rover
