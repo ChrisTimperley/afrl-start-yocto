@@ -1,0 +1,6 @@
+.dockerignore
+build
+*.swp
+*.swo
+*~
+Dockerfile
